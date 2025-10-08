@@ -1,5 +1,5 @@
 if ("+" === l[0])
-    break;
+    return;
 
 if (k = k || " " !== m[0],
     g.push(l),
